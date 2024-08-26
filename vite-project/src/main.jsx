@@ -5,7 +5,7 @@ import Usib from './usib.jsx'
 
 
 let a  = React.createElement('h1',{}, "Usib is th ebstt")
-console.log(a)
+console.log
 createRoot(document.getElementById('root')).render(
-    <h1>hello</h1>
+    a
 )
